@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Keletso Rafedile
+- 👀 I’m interested in learning more CI/CD in development
+- 🌱 I’m currently learning React in collaboration with ASP.Net WebAPI
